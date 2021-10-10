@@ -1,0 +1,54 @@
+body{
+    background-color: #EEB449; 
+    text-align: center;
+}
+
+h1{
+    font-family:Verdana,sans-serif;
+    font-weight: bold;
+    font-size: 3.75em;
+}
+
+div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-grow: initial;
+    align-items: center;
+    border-radius: 2em;
+    background-color:  #362E2E; 
+    margin: auto;
+    width: 110%;
+    max-width: 24em;
+}
+
+
+input[type = text]{
+    width: 16em;
+    height: 4em;
+    font-family: Tahoma,sans-serif;
+    font-weight: bold;
+    font-size: 1.1em;
+    border: 0.2em solid black;
+    background-color: lightgray;
+ }
+
+
+ input[type = submit]{
+    width: 4em;
+    height: 3em;
+    font-family: Tahoma,sans-serif;
+    font-weight: bold;
+    font-size: 1.1em;
+    border: 0.2em solid black;
+    border-radius: 1em;
+ }
+
+p{
+    font-family: Tahoma,sans-serif;
+    font-size: 1.1em;
+}
+
+
+
+

@@ -1,0 +1,2 @@
+Los datos se introducen en la base de datos a través del botón 'Insertar datos en las tablas' que presenta la interfaz de usuario inicial del ejercicio.
+Es decir, los datos se meten a través de un método en el código php. 
